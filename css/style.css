@@ -343,7 +343,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content{
     flex:1 1 30rem;
-    padding:4rem;
+    padding: 1rem 4rem;
     padding-bottom: 0;
 }
 
@@ -351,7 +351,7 @@ header .navbar ul li a:hover{
     flex:1 1 45rem;
     padding:2rem;
     margin:2rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 .contact .row form .box{
